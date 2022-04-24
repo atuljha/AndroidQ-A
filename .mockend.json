@@ -1,19 +1,19 @@
 {
-  Questions:[
+  "Questions":[
     {
-      question:"What is a Fragment ?",
-      options:["Component","ViewModel","Activity","Button"],
-      answer:"Componenet"
+      "question":"What is a Fragment ?",
+      "options":["Component","ViewModel","Activity","Button"],
+      "answer":"Componenet"
     },
     {
-      question:"What is a main thread called ?",
-      options:["UI thread","Worker","Main"," master"],
-      answer:"UI thread"
+      "question":"What is a main thread called ?",
+      "options":["UI thread","Worker","Main"," master"],
+      "answer":"UI thread"
     },
     {
-      question:"What is not a view type ?",
-      options:["ListView","ArrayView","RecycleView","CardView"],
-      answer:"ArrayView"
+      "question":"What is not a view type ?",
+      "options":["ListView","ArrayView","RecycleView","CardView"],
+      "answer":"ArrayView"
     }
     ]
   
